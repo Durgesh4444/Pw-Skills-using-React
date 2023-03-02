@@ -4,6 +4,7 @@ import Card1sub from "./Card1sub";
 const Card1 = () => {
   return (
     <>
+    
       <h1 className="text-center py-[70px] text-[#5A4BDA] text-[3rem] font-bold flex flex-col justify-center items-center">
         “Pure Hardwork, No Shortcuts!”
         <div className="w-[150px] h-[4px] bg-yellow-600 mt-[5px]"></div>

@@ -2,6 +2,8 @@ import Navbar from "./Navbar";
 import Menue from "./Menue";
 import Banner from "./Banner";
 import Card1 from "./Card1";
+import Company from "./Company";
+import Placement from "./Placement";
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
     <Menue/>
     <Banner/>
     <Card1/>
+    <Company/>
+    <Placement/>
     </>
   );
 }
