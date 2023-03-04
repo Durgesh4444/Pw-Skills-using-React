@@ -26,7 +26,7 @@ const Placement = () => {
           massage="Hi All, I am a student of the NOV 2021 batch, I made a good decision by joining the Ineuron classes. A very big thank you..."
         />
       </div>
-      <h1 className="text-gray-600 font-bold mt-[50px]">View More</h1>
+      <h1 className="text-gray-500 font-bold mt-[50px] cursor-pointer">View More</h1>
     </div>
   );
 };
